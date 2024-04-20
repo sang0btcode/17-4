@@ -1,0 +1,10 @@
+package sangdepzai;
+
+import java.util.Arrays;
+
+public class test {
+	public static void main(String[] args) {
+		String [] club = {"volvo", "BMW", "Meccede"};
+		System.out.println("chạy từ mảng " + Arrays.toString(club));
+	}
+}

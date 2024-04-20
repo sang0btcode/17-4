@@ -1,0 +1,11 @@
+package testinterface;
+
+public class Student extends Person {
+	private int mark;
+	private String grade;
+	public Student(String id, String name, int age) {
+		super(id, name, age);
+		// TODO Auto-generated constructor stub
+	}
+
+}

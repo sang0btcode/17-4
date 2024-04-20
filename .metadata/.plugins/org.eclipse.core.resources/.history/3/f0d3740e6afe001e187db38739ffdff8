@@ -1,0 +1,13 @@
+package hocToi;
+
+public class SinhVienCoKhi extends SinhVien{
+private double scoreCNC;
+private double scorePLC;
+	@Override
+	double getScore() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+}

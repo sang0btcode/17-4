@@ -1,0 +1,11 @@
+package test2;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+
+public class video59 {
+	public static void main(String[] args) {
+		FileInputStream in = null;
+		FileOutputStream out = null;
+	}
+}

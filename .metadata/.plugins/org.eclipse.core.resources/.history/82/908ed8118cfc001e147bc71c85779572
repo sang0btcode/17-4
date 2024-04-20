@@ -1,0 +1,7 @@
+package sangdepzai;
+
+public class video30 {
+	public static void main(String[] args) {
+		System.out.println("run video 30");
+	}
+}

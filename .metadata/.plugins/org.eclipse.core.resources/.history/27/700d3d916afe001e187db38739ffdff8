@@ -1,0 +1,9 @@
+package hocToi;
+
+public class video45 {
+	public static void main(String[] args) {
+		System.out.println("");
+		SinhVien it1 = new SinhVienIT(10, 9);
+		System.out.printf("sinh vien it score = ", + it1.getScore());
+	}
+}

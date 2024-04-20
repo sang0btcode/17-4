@@ -1,0 +1,12 @@
+package Stringchuoi;
+
+public class Car extends vihicle {
+	private String modelName = "Mustang";
+
+	public static void main(String[] args) {
+		car mycar = new car();
+		mycar.honk();
+		System.out.println(mycar.brand + " + myCar.modelNam");
+	}
+
+}

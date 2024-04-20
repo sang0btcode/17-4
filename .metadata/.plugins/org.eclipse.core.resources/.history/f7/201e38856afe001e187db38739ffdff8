@@ -1,0 +1,12 @@
+package hocToi;
+
+public class SinhVienIT extends SinhVien {
+	private double scoreJava;
+
+	@Override
+	double getScore() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

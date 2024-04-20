@@ -1,0 +1,8 @@
+package Stringchuoi;
+
+public class vihicle {
+protected String band = "Ford";
+public void honk() {
+	System.out.println("Tuut, tuut!");
+}
+}

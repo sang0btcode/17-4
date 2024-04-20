@@ -1,0 +1,18 @@
+package sangdepzai;
+
+public class giaiPhuongTrinhBac1 {
+	public static void main(String[] args) {
+		int a = 5;
+		int b = 10;
+		if (a == 0 && b == 0) {
+			System.out.println("Phương trình có vô số nhiệm");
+		} else if (a == 0 && b != 0) {
+			System.out.println("Phương trình không có nhiệm");
+		} else {
+			float x = -b / a;
+			System.out.println("Phương trình có nhiệm x =" + x);
+
+		}
+
+	}
+}

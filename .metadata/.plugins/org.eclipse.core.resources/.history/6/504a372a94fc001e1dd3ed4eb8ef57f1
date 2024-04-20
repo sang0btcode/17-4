@@ -1,0 +1,14 @@
+package arraylist;
+
+import java.util.ArrayList;
+
+public class video33 {
+	public static void main(String[] args) {
+		int a = 10;
+		ArrayList<Integer> a1 = new ArrayList<Integer>();
+		
+		a1.add("check check");
+		a1.add("Check Check 2");
+		System.out.println(a1.toString() + "" + a1.size());
+	}
+}

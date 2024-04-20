@@ -1,0 +1,13 @@
+package Friday;
+
+public class video421 {
+	public static void main(String[] args) {
+		System.out.println("run video 42");
+		SinhVienIT st1 = new SinhVienIT("java", "123", "Sang", 10, 0.1);
+		System.out.println("st1 check = " + st1.id);
+
+		SinhVienCoKhi st2 = new SinhVienCoKhi("machine", "123", "Sang", 10, 0.1);
+		System.out.println("st1 check = " + st1.name);
+
+	}
+}

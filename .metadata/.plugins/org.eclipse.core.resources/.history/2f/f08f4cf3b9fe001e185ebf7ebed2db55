@@ -1,0 +1,12 @@
+package saturday;
+
+interface Animal {
+
+	public void animalSound();
+
+	public void run();
+}
+
+public class video47 {
+
+}
